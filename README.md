@@ -24,7 +24,7 @@ Build a timed coding quiz with multiple-choice questions. This app will run in t
 - THEN I can save my initials and my score
 
 #Links
-[GitHub Repository](https://github.com/carolinatnp/web-APIs-code-quiz)
+- [GitHub Repository](https://github.com/carolinatnp/web-APIs-code-quiz)
 
 # Usability
 The following animation demonstrates the application functionality:
