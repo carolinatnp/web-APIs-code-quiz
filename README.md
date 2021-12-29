@@ -33,5 +33,5 @@ A JavaScript Quiz with multiple choice questions, a timer, and high scores!
 # Usability
 The following animation demonstrates the application functionality:
 
-![Screen Shot 2021-12-29 at 1 56 11 pm](https://user-images.githubusercontent.com/94167488/147623194-c373f0c8-58d2-4ce5-aea9-299628ca2bd5.png)
+![Screen Shot 2021-12-29 at 1 56 11 pm](https://user-images.githubusercontent.com/94167488/147623257-57d3063b-8aa0-40a0-8163-4dc1cd251b60.png)
 
