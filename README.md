@@ -28,7 +28,7 @@ A JavaScript Quiz with multiple choice questions, a timer, and high scores!
 
 # Links
 - [GitHub Repository](https://github.com/carolinatnp/web-APIs-code-quiz)
-- [Link to live page]
+- [Link to live page](https://carolinatnp.github.io/web-APIs-code-quiz/)
 
 # Usability
 The following animation demonstrates the application functionality:
