@@ -21,8 +21,14 @@ Build a timed coding quiz with multiple-choice questions. This app will run in t
 - WHEN the game is over
 - THEN I can save my initials and my score
 
+# Description
+
+A JavaScript Quiz with multiple choice questions, a timer, and high scores!
+
+
 # Links
 - [GitHub Repository](https://github.com/carolinatnp/web-APIs-code-quiz)
+- [Link to live page]
 
 # Usability
 The following animation demonstrates the application functionality:
