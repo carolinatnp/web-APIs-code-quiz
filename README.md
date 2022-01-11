@@ -22,5 +22,4 @@ A JavaScript Quiz with multiple choice questions, a timer, and scores
 # Usability
 The following animation demonstrates the application functionality:
 
-![Screen Shot 2021-12-29 at 1 56 11 pm](https://user-images.githubusercontent.com/94167488/147623257-57d3063b-8aa0-40a0-8163-4dc1cd251b60.png)
-
+![Screen Shot 2022-01-11 at 7 22 03 pm](https://user-images.githubusercontent.com/94167488/148906333-456456db-0d65-42c9-baba-effe306443f3.png)
