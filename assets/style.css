@@ -4,14 +4,14 @@
   
   :root {
     --primary: #0a0808c5;
-    --secondary: #8207a1;
+    --secondary: #07a16b;
     --tertiary: rgb(211, 56, 144);
     --white: rgb(255, 255, 255);
     font-size: 62.5%;
   }
 
   body {
-    background: #ededed;
+    background: #fff;
     color: var(--secondary);
     margin: 0;
     padding: 0;
