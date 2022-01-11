@@ -12,7 +12,7 @@
 
 # Description
 
-A JavaScript Quiz with multiple choice questions, a timer, and high scores!
+A JavaScript Quiz with multiple choice questions, a timer, and scores
 
 
 # Links
