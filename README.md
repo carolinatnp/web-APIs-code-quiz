@@ -14,6 +14,10 @@
 
 A JavaScript Quiz with multiple choice questions, a timer, and scores
 
+## Technologies Used
+- HTML
+- CSS
+- Java Script
 
 # Links
 - [GitHub Repository](https://github.com/carolinatnp/web-APIs-code-quiz)
