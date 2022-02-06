@@ -13,14 +13,14 @@ var ulCreate = document.createElement("ul");
 // Code Quiz Questions
 var questions = [
     {
-      title: "Commonly used data types DO NOT include:",
-      choices: ["Strings", "Booleans", "Alerts", "Numbers"],
-      answer: "Alerts"
+      title: "Inside which HTML element do we put the JavaScript?",
+      choices: ["<scripting>", "<js>", "<javascript>", "<script>"],
+      answer: "<script>"
     },
     {
-      title: "The condition in an if / else statement is enclosed wihin ______.",
-      choices: ["Quotes", "Curly Brackets", "Parentheses", "Square Brackets"],
-      answer: "Parentheses"
+      title: "Where is the correct place to insert a JavaScript?",
+      choices: ["The <body> section", "The <head> section", "Both"],
+      answer: "Both"
     },
     {
       title: "Arrays in JavaScript can be used to store ______.",

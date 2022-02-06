@@ -6,13 +6,13 @@ html {
 
 body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    background-color: rgb(252, 252, 252);
+    background-color: white;
     min-height: 100%;
 }
 
 a, a:hover, a:active {
     font-weight: bold;
-    color: rgb(92, 92, 92);
+    color: green;
     text-decoration: none;
 }
 
@@ -23,7 +23,7 @@ a:hover {
 .container {
     margin-top:1em;
     padding:1em;
-    background-color: whitesmoke;
+    background-color: rgb(255, 255, 255);
     border-radius: 5px;
     text-align: center;
     height: 100%;
@@ -41,7 +41,8 @@ a:hover {
     margin:1em auto;
     display: block;
     min-width:250px;
-    color: green;
+    color: rgb(0, 148, 0);
+    color: honeydew;
 }
 
 .scoreboard {
