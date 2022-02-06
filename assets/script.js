@@ -8,11 +8,15 @@
       var listHighScoreEl = document.getElementById("high-score-list")
       var correctEl = document.getElementById("correct")
       var wrongEl = document.getElementById("wrong")
+      
       //buttons
+      
       var btnStartEl = document.querySelector("#start-game");
       var btnGoBackEl = document.querySelector("#go-back")
       var btnClearScoresEl = document.querySelector("#clear-high-scores")
+      
       //questions/answers element
+      
       var questionEl = document.getElementById("question")
       var answerbuttonsEl = document.getElementById("answer-buttons")
       var timerEl = document.querySelector("#timer");
@@ -30,9 +34,9 @@
 
     
       
-      // The array of questions for our quiz game.
+      // Quiz game questions.
       var questions = [
-        { q: 'Arrays in Javascript can be used to store __________.', 
+        { q: 'What is a string in JS?', 
           a: '4. all of the above', 
           choices: [{choice: '1. numbers'}, {choice: '2. booleans'}, {choice: '3. strings'}, {choice: '4. all of the above'}]
         },
@@ -62,7 +66,7 @@
         },
       ];
       
-        //if go back button is hit on high score page
+        // If User hit go back button on high score page
     var renderStartPage = function () {
         containerHighScoresEl.classList.add("hide")
         containerHighScoresEl.classList.remove("show")
