@@ -1,4 +1,4 @@
-// Variables declaration
+// Variables declaration for Scores Page
 
 var highScore = document.querySelector("#highScore");
 var clear = document.querySelector("#clear");
@@ -27,3 +27,4 @@ if (allScores !== null) {
 back.addEventListener("click", function () {
     window.location.replace("./index.html");
 });
+// End of script.js
