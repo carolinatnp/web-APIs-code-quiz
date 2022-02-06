@@ -33,7 +33,7 @@ var questions = [
       answer: "Quotes"
     },
     {
-      title: "A very useful tool used during development and debugging for printing content to the debugger is:",
+      title: "Useful tool used during development and debugging for printing content to the debugger:",
       choices: ["JavaScript", "Terminal / Bash", "For Loops", "Console.log"],
       answer: "Console.log"
     }
@@ -78,7 +78,7 @@ function render(questionIndex) {
         listItem.addEventListener("click", (compare));
     })
 }
-// Event to compare choices with answer
+// Comparing choices with answer
 function compare(event) {
     var element = event.target;
 
@@ -139,7 +139,7 @@ function allDone() {
 
     questionsDiv.appendChild(createLabel);
 
-    // User input
+    // User input - initials
     var createInput = document.createElement("input");
     createInput.setAttribute("type", "text");
     createInput.setAttribute("id", "initials");
