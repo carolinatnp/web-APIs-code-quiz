@@ -25,6 +25,6 @@ if (allScores !== null) {
 }
 
 back.addEventListener("click", function () {
-    window.location.replace("./index.html");
+    window.location.replace("./scorepage.html");
 });
 // End of script.js
