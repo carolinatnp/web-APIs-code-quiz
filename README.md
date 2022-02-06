@@ -29,4 +29,4 @@ A JavaScript Fundamentals Quiz with multiple choice questions, a timer, and user
 ## Usability
 The following animation demonstrates the application functionality:
 
-![Screen Shot 2022-01-11 at 7 22 03 pm](https://user-images.githubusercontent.com/94167488/148906333-456456db-0d65-42c9-baba-effe306443f3.png)
+![Screen Shot 2022-01-11 at 7 22 03 pm](https://github.com/carolinatnp/web-APIs-code-quiz/blob/091bcc03e9862a08393f9681be1a5204839f1c30/assets/Code-Quiz-Demo.mp4)
