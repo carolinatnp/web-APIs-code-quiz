@@ -18,7 +18,7 @@ var questions = [
       answer: "Alerts"
     },
     {
-      title: "The condition in an if / else statement is enclosed within ______.",
+      title: "The condition in an if / else statement is enclosed wihin ______.",
       choices: ["Quotes", "Curly Brackets", "Parentheses", "Square Brackets"],
       answer: "Parentheses"
     },
