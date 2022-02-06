@@ -10,7 +10,7 @@ body {
 
 a, a:hover, a:active {
     font-weight: bold;
-    color: #28a745;
+    color: grey;
     text-decoration: none;
 }
 

@@ -68,7 +68,7 @@ function render(questionIndex) {
         var userChoices = questions[questionIndex].choices;
         questionsDiv.textContent = userQuestion;
     }
-    // Adding and styling for each for question choices
+    // Adding and styling for question choices
     userChoices.forEach(function (newItem) {
         var listItem = document.createElement("button");
         listItem.setAttribute("class", "btn btn-success");
@@ -110,7 +110,7 @@ function allDone() {
     questionsDiv.innerHTML = "";
     currentTime.innerHTML = "";
 
-    // Heading:
+    // Heading
     var createH1 = document.createElement("h1");
     createH1.setAttribute("id", "createH1");
     createH1.textContent = "All Done!"
@@ -147,7 +147,7 @@ function allDone() {
 
     questionsDiv.appendChild(createInput);
 
-    // submit button
+    // Submit button
     var createSubmit = document.createElement("button");
     createSubmit.setAttribute("type", "submit");
     createSubmit.setAttribute("id", "Submit");
@@ -156,7 +156,7 @@ function allDone() {
 
     questionsDiv.appendChild(createSubmit);
 
-    // Event listener to capture initials and local storage for initials and score
+    // Event listener to captura the user's initials and local storage for initials and score
     createSubmit.addEventListener("click", function () {
         var initials = createInput.value;
 
@@ -182,5 +182,5 @@ function allDone() {
             window.location.replace("./highscores.html");
         }
     });
-
+// End of script.js
 }
