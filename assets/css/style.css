@@ -11,7 +11,7 @@ body {
 
 a, a:hover, a:active {
     font-weight: bold;
-    color: grey;
+    color: rgb(92, 92, 92);
     text-decoration: none;
 }
 

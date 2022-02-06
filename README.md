@@ -1,4 +1,4 @@
-# Homework 4: Web APIs Code Quiz
+# Homework 4: Code Quiz - JavaScript Fundamentals
 
 ## Task
 - Build a timed coding quiz with multiple-choice questions. 
@@ -15,7 +15,12 @@
 A JavaScript Fundamentals Quiz with multiple choice questions, a timer, and user scores.
 
 ## Technologies Used
-- HTML, CSS, javascript, local storage and bootstrap
+
+- HTML
+- CSS 
+- Javascript
+- Local storage
+- Bootstrap
 
 ## Links
 - [GitHub Repository](https://github.com/carolinatnp/web-APIs-code-quiz)
