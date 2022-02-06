@@ -1,4 +1,5 @@
-// Variables for high score
+// Variables declaration
+
 var highScore = document.querySelector("#highScore");
 var clear = document.querySelector("#clear");
 var back = document.querySelector("#back");

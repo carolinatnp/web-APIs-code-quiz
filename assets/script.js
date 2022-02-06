@@ -1,4 +1,4 @@
-      // Variables needed
+      // Declaring Variables
 var score = 0;
 var questionIndex = 0;
 var currentTime = document.querySelector("#currentTime");
@@ -10,7 +10,7 @@ var holdInterval = 0;
 var penalty = 20;
 var ulCreate = document.createElement("ul");
 
-// An array of all of the question information needed
+// Code Quiz Questions
 var questions = [
     {
       title: "Commonly used data types DO NOT include:",
@@ -184,32 +184,3 @@ function allDone() {
     });
 
 }
-   
-// Declaring variables
-var highScore = document.querySelector("#highScore");
-var clear = document.querySelector("#clear");
-var back = document.querySelector("#back");
-
-clear.addEventListener("click", function () {
-    localStorage.clear();
-    location.reload();
-});
-
-var allScores = localStorage.getItem("allScores");
-allScores = JSON.parse(allScores);
-
-if (allScores !== null) {
-
-    for (var i = 0; i < allScores.length; i++) {
-
-        var createDiv = document.createElement("div");
-        createDiv.setAttribute("class", "scoreboard");
-        createDiv.textContent = allScores[i].initials + " " + allScores[i].score;
-        highScore.appendChild(createDiv);
-
-    }
-}
-
-back.addEventListener("click", function () {
-    window.location.replace("./index.html");
-});
