@@ -1,9 +1,9 @@
-# README - Web APIs Code Quiz
+# README -  Homework 4: Web APIs Code Quiz
 
 # Task
 - Build a timed coding quiz with multiple-choice questions. 
 - This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write.
-- It will have a clean, polished, an d responsive user interface.
+- It will have a clean, polished, and responsive user interface.
 
 # User Story
 - AS A coding boot camp student
@@ -12,12 +12,10 @@
 
 # Description
 
-A JavaScript Quiz with multiple choice questions, a timer, and scores
+A JavaScript Fundamentals Quiz with multiple choice questions, a timer, and user scores.
 
 ## Technologies Used
-- HTML
-- CSS
-- Java Script
+- HTML, CSS, javascript, local storage and bootstrap
 
 # Links
 - [GitHub Repository](https://github.com/carolinatnp/web-APIs-code-quiz)
